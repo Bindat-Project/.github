@@ -1,4 +1,4 @@
-# Bíndát Project
+# Bindát Project
 
 Advancing Natural Language Processing (NLP) for the Balochi language. We focus on linguistic research, digital resource creation, and standardization efforts to empower Balochi in modern computational contexts. Join us as we build tools, datasets, and models to bring Balochi into the AI era.
 
