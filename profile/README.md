@@ -1,12 +1,10 @@
-## Hi there 👋
+# Bíndát Project
 
-<!--
+Advancing Natural Language Processing (NLP) for the Balochi language. We focus on linguistic research, digital resource creation, and standardization efforts to empower Balochi in modern computational contexts. Join us as we build tools, datasets, and models to bring Balochi into the AI era.
 
-**Here are some ideas to get you started:**
+## Collaborators
+- [Hafeez Baloch](https://www.linkedin.com/in/hafeez-ullah-0635442a6/)
+- [Imdad Rind](https://www.linkedin.com/in/imdad-rind/)
+- [Faisal Jan](https://www.linkedin.com/in/faisal-jan-webdev/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Your **Contribution** will be highly appreciated and is always welcome. Thank you!
